@@ -1,0 +1,4 @@
+baseURL = 'https://beaver-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Beaver theme'
+theme = 'beaver'

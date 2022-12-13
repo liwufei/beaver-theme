@@ -1,0 +1,3 @@
+[submodule "themes/beaver"]
+	path = themes/beaver
+	url = https://github.com/hugotheme/beaver
